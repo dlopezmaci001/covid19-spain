@@ -12,7 +12,7 @@ import matplotlib.animation as animation
 from IPython.display import HTML
 import datetime as dt
 
-df = pd.read_csv(r'C:\Users\dlopezmacias\Documents\GitHub\covid19-spain\grafana_data_export (4).csv',sep=';')
+df = pd.read_csv(r'C:\Users\Daniel\Documents\GitHub\covid19-spain\grafana_data_export (4).csv',sep=';')
 
 current_year = '26-03-2020'
 dff = (df[df['Time'].eq(current_year)]
@@ -86,13 +86,10 @@ mini = min(df.Time)
 maxi = max(df.Time)
 
 fig, ax = plt.subplots(figsize=(15, 8))
-animator = animation.FuncAnimation(fig, draw_barchart, frames=df.Time,interval = 0.5)
+animator = animation.FuncAnimation(fig, draw_barchart, frames=df.Time,interval = 750)
 HTML(animator.to_jshtml()) 
 animator.save('carrera.mp4')
-# or use animator.to_html5_video() or animator.save() 
-animator.to_html5_video(animator.to_jshtml()) 
-animator.save('video_to_show.mp4')
 animator.to_html5_video()
-animator.save('2osc.mp4', writer="ffmpeg")
-fig.show()
+# or use animator.to_html5_video() or animator.save() 
+
 
