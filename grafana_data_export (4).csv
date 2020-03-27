@@ -1,0 +1,417 @@
+﻿Series;Time;values
+Aragón;03-03-2020;0
+Aragón;04-03-2020;0
+Aragón;05-03-2020;1
+Aragón;06-03-2020;6
+Aragón;09-03-2020;13
+Aragón;10-03-2020;38
+Aragón;11-03-2020;45
+Aragón;12-03-2020;64
+Aragón;13-03-2020;72
+Aragón;14-03-2020;80
+Aragón;15-03-2020;114
+Aragón;16-03-2020;161
+Aragón;17-03-2020;191
+Aragón;18-03-2020;217
+Aragón;19-03-2020;254
+Aragón;20-03-2020;321
+Aragón;21-03-2020;392
+Aragón;22-03-2020;532
+Aragón;23-03-2020;638
+Aragón;24-03-2020;758
+Aragón;25-03-2020;907
+Aragón;26-03-2020;1116
+Asturias;03-03-2020;1
+Asturias;04-03-2020;2
+Asturias;05-03-2020;5
+Asturias;06-03-2020;5
+Asturias;09-03-2020;7
+Asturias;10-03-2020;22
+Asturias;11-03-2020;32
+Asturias;12-03-2020;47
+Asturias;13-03-2020;57
+Asturias;14-03-2020;80
+Asturias;15-03-2020;115
+Asturias;16-03-2020;157
+Asturias;17-03-2020;185
+Asturias;18-03-2020;218
+Asturias;19-03-2020;267
+Asturias;20-03-2020;318
+Asturias;21-03-2020;415
+Asturias;22-03-2020;545
+Asturias;23-03-2020;594
+Asturias;24-03-2020;662
+Asturias;25-03-2020;779
+Asturias;26-03-2020;841
+Baleares;03-03-2020;2
+Baleares;04-03-2020;5
+Baleares;05-03-2020;6
+Baleares;06-03-2020;6
+Baleares;09-03-2020;11
+Baleares;10-03-2020;13
+Baleares;11-03-2020;16
+Baleares;12-03-2020;22
+Baleares;13-03-2020;26
+Baleares;14-03-2020;29
+Baleares;15-03-2020;28
+Baleares;16-03-2020;51
+Baleares;17-03-2020;83
+Baleares;18-03-2020;102
+Baleares;19-03-2020;141
+Baleares;20-03-2020;186
+Baleares;21-03-2020;225
+Baleares;22-03-2020;331
+Baleares;23-03-2020;400
+Baleares;24-03-2020;478
+Baleares;25-03-2020;562
+Baleares;26-03-2020;660
+Canarias;03-03-2020;7
+Canarias;04-03-2020;7
+Canarias;05-03-2020;8
+Canarias;06-03-2020;11
+Canarias;09-03-2020;22
+Canarias;10-03-2020;25
+Canarias;11-03-2020;37
+Canarias;12-03-2020;51
+Canarias;13-03-2020;61
+Canarias;14-03-2020;80
+Canarias;15-03-2020;100
+Canarias;16-03-2020;114
+Canarias;17-03-2020;134
+Canarias;18-03-2020;165
+Canarias;19-03-2020;201
+Canarias;20-03-2020;254
+Canarias;21-03-2020;318
+Canarias;22-03-2020;414
+Canarias;23-03-2020;481
+Canarias;24-03-2020;557
+Canarias;25-03-2020;657
+Canarias;26-03-2020;784
+Cantabria;03-03-2020;7
+Cantabria;04-03-2020;7
+Cantabria;05-03-2020;10
+Cantabria;06-03-2020;10
+Cantabria;09-03-2020;12
+Cantabria;10-03-2020;12
+Cantabria;11-03-2020;12
+Cantabria;12-03-2020;16
+Cantabria;13-03-2020;23
+Cantabria;14-03-2020;30
+Cantabria;15-03-2020;41
+Cantabria;16-03-2020;55
+Cantabria;17-03-2020;58
+Cantabria;18-03-2020;63
+Cantabria;19-03-2020;76
+Cantabria;20-03-2020;114
+Cantabria;21-03-2020;180
+Cantabria;22-03-2020;282
+Cantabria;23-03-2020;347
+Cantabria;24-03-2020;425
+Cantabria;25-03-2020;510
+Cantabria;26-03-2020;671
+Castilla La Mancha;03-03-2020;7
+Castilla La Mancha;04-03-2020;12
+Castilla La Mancha;05-03-2020;13
+Castilla La Mancha;06-03-2020;15
+Castilla La Mancha;09-03-2020;26
+Castilla La Mancha;10-03-2020;39
+Castilla La Mancha;11-03-2020;71
+Castilla La Mancha;12-03-2020;115
+Castilla La Mancha;13-03-2020;155
+Castilla La Mancha;14-03-2020;242
+Castilla La Mancha;15-03-2020;345
+Castilla La Mancha;16-03-2020;484
+Castilla La Mancha;17-03-2020;567
+Castilla La Mancha;18-03-2020;621
+Castilla La Mancha;19-03-2020;738
+Castilla La Mancha;20-03-2020;923
+Castilla La Mancha;21-03-2020;1234
+Castilla La Mancha;22-03-2020;1819
+Castilla La Mancha;23-03-2020;2078
+Castilla La Mancha;24-03-2020;2465
+Castilla La Mancha;25-03-2020;2780
+Castilla La Mancha;26-03-2020;3383
+Castilla y León;03-03-2020;8
+Castilla y León;04-03-2020;11
+Castilla y León;05-03-2020;11
+Castilla y León;06-03-2020;14
+Castilla y León;09-03-2020;23
+Castilla y León;10-03-2020;56
+Castilla y León;11-03-2020;71
+Castilla y León;12-03-2020;92
+Castilla y León;13-03-2020;131
+Castilla y León;14-03-2020;196
+Castilla y León;15-03-2020;258
+Castilla y León;16-03-2020;313
+Castilla y León;17-03-2020;383
+Castilla y León;18-03-2020;550
+Castilla y León;19-03-2020;768
+Castilla y León;20-03-2020;1008
+Castilla y León;21-03-2020;1307
+Castilla y León;22-03-2020;1744
+Castilla y León;23-03-2020;2055
+Castilla y León;24-03-2020;2460
+Castilla y León;25-03-2020;2940
+Castilla y León;26-03-2020;3488
+Cataluña;03-03-2020;15
+Cataluña;04-03-2020;15
+Cataluña;05-03-2020;24
+Cataluña;06-03-2020;24
+Cataluña;09-03-2020;75
+Cataluña;10-03-2020;124
+Cataluña;11-03-2020;156
+Cataluña;12-03-2020;260
+Cataluña;13-03-2020;288
+Cataluña;14-03-2020;413
+Cataluña;15-03-2020;612
+Cataluña;16-03-2020;809
+Cataluña;17-03-2020;1149
+Cataluña;18-03-2020;1630
+Cataluña;19-03-2020;2284
+Cataluña;20-03-2020;2986
+Cataluña;21-03-2020;3737
+Cataluña;22-03-2020;4704
+Cataluña;23-03-2020;5925
+Cataluña;24-03-2020;7864
+Cataluña;25-03-2020;9937
+Cataluña;26-03-2020;11592
+Ceuta;03-03-2020;0
+Ceuta;04-03-2020;0
+Ceuta;05-03-2020;0
+Ceuta;06-03-2020;0
+Ceuta;09-03-2020;0
+Ceuta;10-03-2020;0
+Ceuta;11-03-2020;0
+Ceuta;12-03-2020;0
+Ceuta;13-03-2020;0
+Ceuta;14-03-2020;0
+Ceuta;15-03-2020;1
+Ceuta;16-03-2020;1
+Ceuta;17-03-2020;1
+Ceuta;18-03-2020;1
+Ceuta;19-03-2020;1
+Ceuta;20-03-2020;3
+Ceuta;21-03-2020;5
+Ceuta;22-03-2020;5
+Ceuta;23-03-2020;6
+Ceuta;24-03-2020;6
+Ceuta;25-03-2020;9
+Ceuta;26-03-2020;10
+C Valenciana;03-03-2020;15
+C Valenciana;04-03-2020;19
+C Valenciana;05-03-2020;19
+C Valenciana;06-03-2020;30
+C Valenciana;09-03-2020;37
+C Valenciana;10-03-2020;50
+C Valenciana;11-03-2020;65
+C Valenciana;12-03-2020;76
+C Valenciana;13-03-2020;85
+C Valenciana;14-03-2020;112
+C Valenciana;15-03-2020;270
+C Valenciana;16-03-2020;409
+C Valenciana;17-03-2020;475
+C Valenciana;18-03-2020;634
+C Valenciana;19-03-2020;824
+C Valenciana;20-03-2020;1013
+C Valenciana;21-03-2020;1234
+C Valenciana;22-03-2020;1604
+C Valenciana;23-03-2020;1901
+C Valenciana;24-03-2020;2167
+C Valenciana;25-03-2020;2616
+C Valenciana;26-03-2020;3200
+Extremadura;03-03-2020;6
+Extremadura;04-03-2020;6
+Extremadura;05-03-2020;6
+Extremadura;06-03-2020;6
+Extremadura;09-03-2020;7
+Extremadura;10-03-2020;8
+Extremadura;11-03-2020;9
+Extremadura;12-03-2020;19
+Extremadura;13-03-2020;29
+Extremadura;14-03-2020;53
+Extremadura;15-03-2020;81
+Extremadura;16-03-2020;103
+Extremadura;17-03-2020;132
+Extremadura;18-03-2020;174
+Extremadura;19-03-2020;218
+Extremadura;20-03-2020;269
+Extremadura;21-03-2020;326
+Extremadura;22-03-2020;384
+Extremadura;23-03-2020;493
+Extremadura;24-03-2020;636
+Extremadura;25-03-2020;742
+Extremadura;26-03-2020;969
+Galicia;03-03-2020;0
+Galicia;04-03-2020;1
+Galicia;05-03-2020;1
+Galicia;06-03-2020;3
+Galicia;09-03-2020;6
+Galicia;10-03-2020;22
+Galicia;11-03-2020;39
+Galicia;12-03-2020;35
+Galicia;13-03-2020;60
+Galicia;14-03-2020;100
+Galicia;15-03-2020;155
+Galicia;16-03-2020;220
+Galicia;17-03-2020;269
+Galicia;18-03-2020;317
+Galicia;19-03-2020;397
+Galicia;20-03-2020;516
+Galicia;21-03-2020;659
+Galicia;22-03-2020;915
+Galicia;23-03-2020;1208
+Galicia;24-03-2020;1415
+Galicia;25-03-2020;1653
+Galicia;26-03-2020;1915
+Madrid;03-03-2020;49
+Madrid;04-03-2020;70
+Madrid;05-03-2020;90
+Madrid;06-03-2020;137
+Madrid;09-03-2020;469
+Madrid;10-03-2020;782
+Madrid;11-03-2020;1024
+Madrid;12-03-2020;1388
+Madrid;13-03-2020;1689
+Madrid;14-03-2020;2465
+Madrid;15-03-2020;3242
+Madrid;16-03-2020;3855
+Madrid;17-03-2020;4518
+Madrid;18-03-2020;5254
+Madrid;19-03-2020;6207
+Madrid;20-03-2020;6971
+Madrid;21-03-2020;8043
+Madrid;22-03-2020;9702
+Madrid;23-03-2020;10575
+Madrid;24-03-2020;12352
+Madrid;25-03-2020;14597
+Madrid;26-03-2020;17166
+Melilla;03-03-2020;0
+Melilla;04-03-2020;0
+Melilla;05-03-2020;0
+Melilla;06-03-2020;0
+Melilla;09-03-2020;0
+Melilla;10-03-2020;0
+Melilla;11-03-2020;0
+Melilla;12-03-2020;0
+Melilla;13-03-2020;1
+Melilla;14-03-2020;3
+Melilla;15-03-2020;6
+Melilla;16-03-2020;8
+Melilla;17-03-2020;13
+Melilla;18-03-2020;19
+Melilla;19-03-2020;22
+Melilla;20-03-2020;24
+Melilla;21-03-2020;25
+Melilla;22-03-2020;25
+Melilla;23-03-2020;28
+Melilla;24-03-2020;28
+Melilla;25-03-2020;38
+Melilla;26-03-2020;39
+Murcia;03-03-2020;0
+Murcia;04-03-2020;0
+Murcia;05-03-2020;0
+Murcia;06-03-2020;0
+Murcia;09-03-2020;4
+Murcia;10-03-2020;9
+Murcia;11-03-2020;11
+Murcia;12-03-2020;26
+Murcia;13-03-2020;31
+Murcia;14-03-2020;41
+Murcia;15-03-2020;59
+Murcia;16-03-2020;74
+Murcia;17-03-2020;87
+Murcia;18-03-2020;110
+Murcia;19-03-2020;145
+Murcia;20-03-2020;186
+Murcia;21-03-2020;222
+Murcia;22-03-2020;296
+Murcia;23-03-2020;345
+Murcia;24-03-2020;385
+Murcia;25-03-2020;477
+Murcia;26-03-2020;596
+Navarra;03-03-2020;1
+Navarra;04-03-2020;3
+Navarra;05-03-2020;3
+Navarra;06-03-2020;3
+Navarra;09-03-2020;3
+Navarra;10-03-2020;12
+Navarra;11-03-2020;46
+Navarra;12-03-2020;73
+Navarra;13-03-2020;102
+Navarra;14-03-2020;138
+Navarra;15-03-2020;165
+Navarra;16-03-2020;229
+Navarra;17-03-2020;294
+Navarra;18-03-2020;350
+Navarra;19-03-2020;434
+Navarra;20-03-2020;518
+Navarra;21-03-2020;609
+Navarra;22-03-2020;794
+Navarra;23-03-2020;886
+Navarra;24-03-2020;1014
+Navarra;25-03-2020;1197
+Navarra;26-03-2020;1411
+País Vasco;03-03-2020;13
+País Vasco;04-03-2020;17
+País Vasco;05-03-2020;17
+País Vasco;06-03-2020;45
+País Vasco;09-03-2020;149
+País Vasco;10-03-2020;195
+País Vasco;11-03-2020;225
+País Vasco;12-03-2020;346
+País Vasco;13-03-2020;382
+País Vasco;14-03-2020;417
+País Vasco;15-03-2020;524
+País Vasco;16-03-2020;630
+País Vasco;17-03-2020;698
+País Vasco;18-03-2020;869
+País Vasco;19-03-2020;1082
+País Vasco;20-03-2020;1328
+País Vasco;21-03-2020;1595
+País Vasco;22-03-2020;2097
+País Vasco;23-03-2020;2421
+País Vasco;24-03-2020;2728
+País Vasco;25-03-2020;3271
+País Vasco;26-03-2020;3946
+La Rioja;03-03-2020;3
+La Rioja;04-03-2020;7
+La Rioja;05-03-2020;11
+La Rioja;06-03-2020;29
+La Rioja;09-03-2020;81
+La Rioja;10-03-2020;144
+La Rioja;11-03-2020;179
+La Rioja;12-03-2020;205
+La Rioja;13-03-2020;224
+La Rioja;14-03-2020;261
+La Rioja;15-03-2020;289
+La Rioja;16-03-2020;306
+La Rioja;17-03-2020;334
+La Rioja;18-03-2020;387
+La Rioja;19-03-2020;444
+La Rioja;20-03-2020;483
+La Rioja;21-03-2020;531
+La Rioja;22-03-2020;654
+La Rioja;24-03-2020;802
+La Rioja;25-03-2020;928
+La Rioja;26-03-2020;995
+Andalucía;03-03-2020;12
+Andalucía;04-03-2020;12
+Andalucía;05-03-2020;12
+Andalucía;06-03-2020;21
+Andalucía;09-03-2020;54
+Andalucía;10-03-2020;71
+Andalucía;12-03-2020;115
+Andalucía;13-03-2020;167
+Andalucía;14-03-2020;244
+Andalucía;15-03-2020;353
+Andalucía;16-03-2020;496
+Andalucía;17-03-2020;619
+Andalucía;18-03-2020;771
+Andalucía;19-03-2020;934
+Andalucía;20-03-2020;1148
+Andalucía;21-03-2020;1401
+Andalucía;22-03-2020;1725
+Andalucía;23-03-2020;1961
+Andalucía;24-03-2020;2471
+Andalucía;25-03-2020;3010
+Andalucía;26-03-2020;3406
